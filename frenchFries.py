@@ -1,14 +1,5 @@
 #!bin/bash/python
 
-"""
-for x in range(100,101):
-	print "number of fries :: " + str(x)
-	phi = (1+(sqrt(5)))/2
-	Phi = (1-(sqrt(5)))/2
-
-	print ((phi ** (x+1))-(Phi**(x+1)))/(sqrt(5))
-"""
-
 def fries(n):
 	a = 1
 	b = 1
